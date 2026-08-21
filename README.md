@@ -1,6 +1,6 @@
 # Peer Project Hub
 
-A beginner-friendly MERN stack college assessment project.
+A beginner-friendly MERN stack project.
 
 ## Features
 
